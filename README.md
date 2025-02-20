@@ -23,3 +23,4 @@ please follow [this](https://github.com/anuket-project/anuket-specifications/blo
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/anuket-project/RI1/badge)](https://scorecard.dev/viewer/?uri=github.com/anuket-project/RI1)
 
+
